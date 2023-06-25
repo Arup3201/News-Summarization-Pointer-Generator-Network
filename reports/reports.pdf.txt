@@ -1,0 +1,1 @@
+Generate analysis as HTML, PDF or any other format
